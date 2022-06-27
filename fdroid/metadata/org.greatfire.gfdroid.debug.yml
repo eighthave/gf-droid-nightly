@@ -1,0 +1,8 @@
+AuthorName: gf-droid-nightly
+AuthorWebSite: https://github.com/eighthave
+Categories:
+- nightly
+Description: Nightly build of eighthave/gf-droid
+IssueTracker: https://github.com/eighthave/gf-droid/issues
+SourceCode: https://github.com/eighthave/gf-droid
+Summary: Nightly build of eighthave/gf-droid
